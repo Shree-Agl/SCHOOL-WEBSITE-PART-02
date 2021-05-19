@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#marqueestyle{
+    background-color: aqua;
+}
+img{
+    height: 500;
+    width: 500;
+}
+#i1{
+    height: 200;
+    width: 1000;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+#i2{
+    height:500;
+    width: 150;
+        
+}
